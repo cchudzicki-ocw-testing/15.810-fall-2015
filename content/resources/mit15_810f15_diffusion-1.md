@@ -4,7 +4,12 @@ description: This resource contains information regarding this spreadsheet simul
   the bass diffusion model.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/15-810-marketing-management-analytics-frameworks-and-applications-fall-2015/ce486e15447444cbf4b0542454a48aef_MIT15_810F15_Diffusion.xlsx
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+learning_resource_types:
+- Tools
+parent_title: Tools
+parent_type: CourseSection
 resourcetype: Other
 title: MIT15_810F15_Diffusion.xlsx
+type: OCWFile
 uid: ce486e15-4474-44cb-f4b0-542454a48aef
 ---

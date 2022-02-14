@@ -5,7 +5,12 @@ description: 'This is a file that contains information regarding marketing manag
   2015.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/15-810-marketing-management-analytics-frameworks-and-applications-fall-2015/f6295c1326850e7dc31eee04bfd92a8c_MIT15_810F15_Diffusion.pdf
 file_type: application/pdf
+learning_resource_types:
+- Tools
+parent_title: Tools
+parent_type: CourseSection
 resourcetype: Document
 title: Diffusion Model Simulator - 15.810 Fall 2015
+type: OCWFile
 uid: f6295c13-2685-0e7d-c31e-ee04bfd92a8c
 ---
