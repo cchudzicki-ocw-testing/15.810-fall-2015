@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 1: Strategic Positioning - 15.810 Fall 2015'
-type: OCWFile
 uid: 94f85265-c55f-1fc6-b362-0e82abc77a9e
 ---

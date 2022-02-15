@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: MIT15_810F15_AnaSim_Sheet.xlsx
-type: OCWFile
 uid: 49455b92-7f0a-4f3f-345b-792913c7dee4
 ---

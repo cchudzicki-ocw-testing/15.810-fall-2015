@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Analytics Funnel Spreadsheet - 15.810 Fall 2015
-type: OCWFile
 uid: 163722a6-cef3-82e3-f3bf-dba6180ffe90
 ---

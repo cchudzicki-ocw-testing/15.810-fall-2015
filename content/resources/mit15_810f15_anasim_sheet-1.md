@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Analytics Simulated Store Spreadsheet - 15.810 Fall 2015
-type: OCWFile
 uid: 3fc56e03-86a5-6003-6db2-67b1b62600ce
 ---

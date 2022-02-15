@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 10: Pricing - 15.810 Fall 2015'
-type: OCWFile
 uid: af93b992-c0c3-58d2-957c-c8be6710dedb
 ---

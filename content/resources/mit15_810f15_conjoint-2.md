@@ -9,6 +9,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
 title: MIT15_810F15_Conjoint.xlsx
-type: OCWFile
 uid: cf2538e1-abe1-56a9-c55c-cbb025ee74fe
 ---

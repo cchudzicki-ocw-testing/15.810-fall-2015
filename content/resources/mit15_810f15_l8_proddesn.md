@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 8: Product Design and Customer Voice - 15.810 Fall 2015'
-type: OCWFile
 uid: a4b186a8-1ede-8ef6-dca7-a3625f8cc6dd
 ---

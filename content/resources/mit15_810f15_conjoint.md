@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Note on Conjoint Analysis - 15.810 Fall 2015
-type: OCWFile
 uid: f863194d-7fe6-1a92-4053-26b29261dc76
 ---

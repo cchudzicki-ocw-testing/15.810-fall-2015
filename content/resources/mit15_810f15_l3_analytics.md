@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 3: Marketing Analytics - 15.810 Fall 2015'
-type: OCWFile
 uid: adf6f03d-307d-5f7c-e1ae-64ef5e878a02
 ---

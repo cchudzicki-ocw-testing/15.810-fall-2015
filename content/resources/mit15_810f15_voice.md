@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Note on the Voice of the Customer - 15.810 Fall 2015
-type: OCWFile
 uid: 2ddfdbcc-07a0-4fc5-638c-c8ce346dca01
 ---

@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: MIT15_810F15_S07zBrita_For.xlsx
-type: OCWFile
 uid: a5a6d8f0-5f23-a35c-8bee-0e23d023915c
 ---

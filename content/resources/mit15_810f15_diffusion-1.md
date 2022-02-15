@@ -10,6 +10,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Other
 title: MIT15_810F15_Diffusion.xlsx
-type: OCWFile
 uid: ce486e15-4474-44cb-f4b0-542454a48aef
 ---

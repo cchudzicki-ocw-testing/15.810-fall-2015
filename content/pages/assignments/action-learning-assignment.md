@@ -6,7 +6,6 @@ parent_title: Assignments
 parent_type: CourseSection
 parent_uid: efd4c9d5-6b59-3ff7-9e62-9632aeaafa05
 title: Action Learning Assignment
-type: CourseSection
 uid: ef315a4c-ec50-45e6-f8fb-4e09df03e665
 ---
 

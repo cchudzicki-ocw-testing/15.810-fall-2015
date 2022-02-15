@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 17: Project Review - 15.810 Fall 2015'
-type: OCWFile
 uid: 5ee9e268-c3e8-b8ea-d261-6a21be335120
 ---

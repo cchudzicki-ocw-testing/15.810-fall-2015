@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: MIT15_810F15_S05zBBVA_Comp.xlsx
-type: OCWFile
 uid: 98d21620-2042-04a5-e011-894ed718aa00
 ---

@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 6: Consumer Behavior Theory - 15.810 Fall 2015'
-type: OCWFile
 uid: 4350eb05-85a8-e2e0-ab75-45dd5bf05684
 ---

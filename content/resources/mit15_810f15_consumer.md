@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Note on Consumer Behavior - 15.810 Fall 2015
-type: OCWFile
 uid: 6cb1b002-884e-5998-4e27-98bed5d3dc9e
 ---

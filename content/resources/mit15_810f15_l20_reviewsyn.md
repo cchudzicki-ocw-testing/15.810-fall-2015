@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 20: Review and Synthesis of Marketing - 15.810 Fall 2015'
-type: OCWFile
 uid: 228558d7-43f9-827a-edb2-dc1d8943ad0c
 ---

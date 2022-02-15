@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Note on Strategic Positioning - 15.810 Fall 2015
-type: OCWFile
 uid: 6ac992a8-742b-b222-3184-ed3dc981f2e2
 ---

@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Case Discussion Questions - 15.810 Fall 2015
-type: OCWFile
 uid: 35a55236-576c-b6ad-09d4-e0448c1b578e
 ---

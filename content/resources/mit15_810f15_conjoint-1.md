@@ -11,6 +11,5 @@ parent_title: Tools
 parent_type: CourseSection
 resourcetype: Document
 title: Simplified Conjoint Analysis - 15.810 Fall 2015
-type: OCWFile
 uid: ad2e8986-8b55-32fe-33f3-d6c41c2d5f4e
 ---

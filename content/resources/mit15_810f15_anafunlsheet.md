@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: MIT15_810F15_AnaFunlSheet.xlsx
-type: OCWFile
 uid: a263b6db-1d14-d1c7-6b63-54f150e7bcb1
 ---

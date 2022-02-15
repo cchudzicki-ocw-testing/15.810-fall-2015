@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 14: Promotion - 15.810 Fall 2015'
-type: OCWFile
 uid: 41f7a6d0-ce26-9307-c48e-ad010d8d621d
 ---
