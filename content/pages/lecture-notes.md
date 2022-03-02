@@ -31,7 +31,7 @@ LECTURE NOTES
 _**The**_ **Marketing Framework: 4 P's and 5 C's**
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 94f85265-c55f-1fc6-b362-0e82abc77a9e "Lecture 1: Strategic Positioning (PDF - 2.2MB)" >}}
+{{% resource_link 94f85265-c55f-1fc6-b362-0e82abc77a9e "Lecture 1: Strategic Positioning (PDF - 2.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +55,7 @@ Snapple (4 P's, Entrepreneurs vs. Corporate)
 **Marketing Analytics**
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link adf6f03d-307d-5f7c-e1ae-64ef5e878a02 "Lecture 3: Marketing Analytics (PDF - 2.0MB)" >}}
+{{% resource_link adf6f03d-307d-5f7c-e1ae-64ef5e878a02 "Lecture 3: Marketing Analytics (PDF - 2.0MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +67,7 @@ Snapple (4 P's, Entrepreneurs vs. Corporate)
 _In‐class Project Meetings: Topic and Customer Identification._
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link e3def505-b151-2a05-cf71-cbd0c769e7ff "Lecture 4: Action Learning Project (PDF)" >}}
+{{% resource_link e3def505-b151-2a05-cf71-cbd0c769e7ff "Lecture 4: Action Learning Project (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +91,7 @@ BBVA Compass: Marketing Resource Allocation{{< sup "†" >}} (Analytics)
 **Consumer Psychology: Framing and Schema**
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 4350eb05-85a8-e2e0-ab75-45dd5bf05684 "Lecture 6: Consumer Behavior Theory (PDF - 3.0MB)" >}}
+{{% resource_link 4350eb05-85a8-e2e0-ab75-45dd5bf05684 "Lecture 6: Consumer Behavior Theory (PDF - 3.0MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +115,7 @@ Brita Products Company{{< sup "†" >}} (Positioning, Disruptive New Product)
 Special Guest: Richard Choi, Dir., Chevrolet Global Brand Strategy
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link a4b186a8-1ede-8ef6-dca7-a3625f8cc6dd "Lecture 8: Product Design and Customer Voice (PDF)" >}}
+{{% resource_link a4b186a8-1ede-8ef6-dca7-a3625f8cc6dd "Lecture 8: Product Design and Customer Voice (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +139,7 @@ _Project Groups Meet on their Own to Finalize Topics._
 **Product: Design and Voice of the Customer**
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link af93b992-c0c3-58d2-957c-c8be6710dedb "Lecture 10: Pricing (PDF - 2.1MB)" >}}
+{{% resource_link af93b992-c0c3-58d2-957c-c8be6710dedb "Lecture 10: Pricing (PDF - 2.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,7 +187,7 @@ The New York Times Paywall{{< sup "†" >}} (Pricing)
 **Promotion: Communications to and from Customers**
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 41f7a6d0-ce26-9307-c48e-ad010d8d621d "Lecture 14: Promotion (PDF - 2.2MB)" >}}
+{{% resource_link 41f7a6d0-ce26-9307-c48e-ad010d8d621d "Lecture 14: Promotion (PDF - 2.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -223,7 +223,7 @@ Swatch{{< sup "†" >}} (Advertising, Framing, Integration, 4 P's)
 _In‐class Project Meetings: Report on VOC and Finalize Projects._
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 5ee9e268-c3e8-b8ea-d261-6a21be335120 "Lecture 17: Project Review (PDF)" >}}
+{{% resource_link 5ee9e268-c3e8-b8ea-d261-6a21be335120 "Lecture 17: Project Review (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -259,7 +259,7 @@ Dove: Brand Evolution (Societal Issues, Social Media)
 **Synthesis**
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 228558d7-43f9-827a-edb2-dc1d8943ad0c "Lecture 20: Review and Synthesis of Marketing (PDF - 1.4MB)" >}}
+{{% resource_link 228558d7-43f9-827a-edb2-dc1d8943ad0c "Lecture 20: Review and Synthesis of Marketing (PDF - 1.4MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
