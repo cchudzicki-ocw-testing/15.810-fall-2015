@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 90dfb98e-f415-249c-162e-c2b02f74c43e
 resourcetype: Document
 title: Discover Software for Conjoint Analysis
 uid: b712f7f7-48a7-b77b-69b8-81498188ba92

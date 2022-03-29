@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: efd4c9d5-6b59-3ff7-9e62-9632aeaafa05
 resourcetype: Other
 title: MIT15_810F15_AnaFunlSheet.xlsx
 uid: a263b6db-1d14-d1c7-6b63-54f150e7bcb1

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: efd4c9d5-6b59-3ff7-9e62-9632aeaafa05
 resourcetype: Other
 title: MIT15_810F15_AnaSim_Sheet.xlsx
 uid: 49455b92-7f0a-4f3f-345b-792913c7dee4

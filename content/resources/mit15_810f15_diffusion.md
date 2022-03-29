@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 90dfb98e-f415-249c-162e-c2b02f74c43e
 resourcetype: Document
 title: Diffusion Model Simulator - 15.810 Fall 2015
 uid: f6295c13-2685-0e7d-c31e-ee04bfd92a8c

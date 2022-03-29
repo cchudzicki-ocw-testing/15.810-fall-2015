@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: efd4c9d5-6b59-3ff7-9e62-9632aeaafa05
 resourcetype: Other
 title: MIT15_810F15_S07zBrita_For.xlsx
 uid: a5a6d8f0-5f23-a35c-8bee-0e23d023915c

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6614dc94-9f93-abca-d363-c7651a9ece53
 resourcetype: Document
 title: 'Lecture 4: Action Learning Project - 15.810 Fall 2015'
 uid: e3def505-b151-2a05-cf71-cbd0c769e7ff

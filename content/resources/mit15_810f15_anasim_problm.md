@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: efd4c9d5-6b59-3ff7-9e62-9632aeaafa05
 resourcetype: Document
 title: Analytics Simulated Store Problem Set (Beta 1.0 Version) - 15.810 Fall 2015
 uid: ced6aaa7-1e13-bb3f-7df8-eae593360e04

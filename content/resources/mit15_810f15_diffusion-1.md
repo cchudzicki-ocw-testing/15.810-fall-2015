@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 90dfb98e-f415-249c-162e-c2b02f74c43e
 resourcetype: Other
 title: MIT15_810F15_Diffusion.xlsx
 uid: ce486e15-4474-44cb-f4b0-542454a48aef

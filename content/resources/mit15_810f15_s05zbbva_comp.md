@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: efd4c9d5-6b59-3ff7-9e62-9632aeaafa05
 resourcetype: Document
 title: BBVA Compass Case Spreadsheet - 15.810 Fall 2015
 uid: 1dc7856b-2c8c-f543-3b96-4d9da348bcfd

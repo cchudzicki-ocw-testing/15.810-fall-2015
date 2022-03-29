@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 90dfb98e-f415-249c-162e-c2b02f74c43e
 resourcetype: Other
 title: MIT15_810F15_Conjoint.xlsx
 uid: cf2538e1-abe1-56a9-c55c-cbb025ee74fe

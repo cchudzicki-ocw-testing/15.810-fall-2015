@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: efd4c9d5-6b59-3ff7-9e62-9632aeaafa05
 resourcetype: Document
 title: Analytics Funnel Problem Set (Beta 1.0 Version) - 15.810 Fall 2015
 uid: 663fa6bc-458f-a680-01e8-3371aab14b35

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6614dc94-9f93-abca-d363-c7651a9ece53
 resourcetype: Document
 title: 'Lecture 17: Project Review - 15.810 Fall 2015'
 uid: 5ee9e268-c3e8-b8ea-d261-6a21be335120
