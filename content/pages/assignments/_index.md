@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides the course assignments and additional materials.
+  Assignments include an action learning exercise, group case reports, short assignments,
+  and a synthesis assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

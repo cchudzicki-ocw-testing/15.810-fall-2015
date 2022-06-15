@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides information on the nature and purpose
+  of the course, course organization, meeting times, materials, teams, case reports,
+  assignments, MIT Sloan values, grading, and final comments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

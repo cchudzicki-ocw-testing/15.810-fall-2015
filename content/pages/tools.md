@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on a diffusion model simulator and
+  conjoint analysis.
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
